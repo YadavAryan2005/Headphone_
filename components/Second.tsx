@@ -7,7 +7,7 @@ function Second() {
     <>
     <center>
         <h1 className='font-bold text-2xl text-slate-600'>Solo Pro</h1>
-        <h1 className='py-5 font-medium text-slate-600'>The only Headset you'll ever need.</h1>
+        <h1 className='py-5 font-medium text-slate-600'>The only Headset you&apos;ll ever need.</h1>
         </center>
     <div className='w-full flex justify-center'>
       <div className='flex sm:flex-row flex-col rounded-2xl overflow-hidden shadow-xl hover:shadow-2xl'>

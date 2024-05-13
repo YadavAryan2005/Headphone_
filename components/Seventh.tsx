@@ -8,7 +8,7 @@ function Seventh() {
               alt='img not found'
           className='sm:w-[60vw]'/>
           <div className='sm:w-[40vw]'>
-              <h1 className='text-4xl sm:text-5xl font-bold text-slate-600'>What's in the box</h1>
+              <h1 className='text-4xl sm:text-5xl font-bold text-slate-600'>What&apos;s in the box</h1>
               <div className='flex flex-col justify-center items-start gap-4 py-5'>
                   <div className='flex justify-center items-start'>
                       <div className='w-4 h-4  rounded-xl bg-slate-400'></div>

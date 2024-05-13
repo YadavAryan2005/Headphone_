@@ -17,7 +17,7 @@ function Third() {
                   <div className='rounded-xl bg-orange-500 border cursor-pointer h-5 w-5'></div>
                   <div className='rounded-xl bg-purple-500 border cursor-pointer h-5 w-5'></div>
               </h3>
-              <h2 className='font-medium text-lg sm:text-xl'>With an advanced acoustic platform and noise cancelling, Solo Pro ensures you'll always have the right sound for right situation</h2>
+              <h2 className='font-medium text-lg sm:text-xl'>With an advanced acoustic platform and noise cancelling, Solo Pro ensures you&apos;ll always have the right sound for right situation</h2>
               <div className='flex'><button className='p-5 border-red-400 border text-red-400  rounded-3xl font-serif cursor-pointer text-xl'>Buy Now</button></div> 
         </div>
     </div>

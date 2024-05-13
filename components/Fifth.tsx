@@ -6,7 +6,7 @@ function Fifth() {
       <div className='flex flex-col sm:flex-row justify-center items-center w-full py-12'>
           <div className='sm:w-[40%]'>
           <h1 className='text-4xl sm:text-5xl font-bold text-slate-600 '>Controll your sound with listening modes</h1>
-          <p className='text-xl'>With an advanced acoustic platform and noise cancelling, Solo Pro ensures you'll always have the right sound for right situation.</p>
+          <p className='text-xl'>With an advanced acoustic platform and noise cancelling, Solo Pro ensures youl&apos;l always have the right sound for right situation.</p>
           </div>
           <div className='flex items-center justify-center text-center relative overflow-hidden min-h-[40vh] sm:min-h-screen 2xl:sm:min-h-[60vh] sm:w-[50%]'>
         <div className='flex items-center justify-between'>
